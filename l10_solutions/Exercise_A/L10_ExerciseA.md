@@ -5,3 +5,7 @@ In this exercise I will create a workflow that receives a joke **topic** via Web
 ![step_3B](image-2.png)
 ![step_3C](image-3.png)
 ![step_3D](image-4.png)
+![step_3E](image-7.png)
+![step_3F](image-8.png)
+![step_4A](image-6.png)
+![step_4B](image-5.png)
