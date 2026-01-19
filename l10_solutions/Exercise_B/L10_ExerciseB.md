@@ -1,3 +1,5 @@
+In this exercise, I will create a workflow that will get URL with help of AI return structured JSON response.
+
 ![Workflow_created](image.png)
 ![JinaRequest_1](image-1.png)
 ![JinaRequest_2](image-2.png)
